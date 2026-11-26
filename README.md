@@ -1,4 +1,4 @@
-<p align="center">
+    <p align="center">
     <img src="https://raw.githubusercontent.com/raivo-otp/ios-application/master/Assets/app-icon.png" width="200"/>
 </p>
 <p align="center">
